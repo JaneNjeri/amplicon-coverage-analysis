@@ -21,6 +21,6 @@ In each run directory, we expect to see sample.pdf files for all your samples.
 
 ### Example
 
-![Alt text](/example/P64627.pdf?raw=true "Optional Title")
+![Alt text](/example/image.png?raw=true "Optional Title")
 
 
