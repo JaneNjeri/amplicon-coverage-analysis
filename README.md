@@ -4,14 +4,14 @@ The amplicon_coverage script creates plots covering the 98 amplicons across SARS
 
 ### Setup
 Install:
-    1. Snakemake
-    2. R packages:
-        a. pacman
-            `install.packages("pacman")`
-        b. tidyverse
-            `install.packages("tidyverse")`
-        c. ggplolt2
-            `install.packages("ggplolt2")`
+  1. Snakemake
+  2. R packages:
+       * pacman
+          `install.packages("pacman")`
+       * tidyverse
+         `install.packages("tidyverse")`
+       * ggplolt2
+         `install.packages("ggplolt2")`
 
 ### Run
 Run the Snakefile with the `snakemake` command in terminal in your working directory that has a data dir with various run folders, for example run1, run2 etc and a results dir where the output goes.
@@ -21,6 +21,6 @@ In each run directory, we expect to see sample.pdf files for all your samples.
 
 ### Example
 
-![plot](./example/P64627.pdf)
+![alt text](./example/P64627.pdf)
 
 
